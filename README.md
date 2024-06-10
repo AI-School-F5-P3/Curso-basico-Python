@@ -6,10 +6,10 @@ Para crear este material de forma eficiente, nos dividiremos en 6 equipos, cada 
 
 ### Grupo 1: Introducción a Python y Configuración del Entorno 
 
-● Introducción a Python: Historia, usos y beneficios del lenguaje.
-● Instalación de Python: Instalación de Python en diferentes sistemas operativos. 
-● Configuración del entorno de desarrollo: Instalación y uso de IDEs como Visual Studio Code, PyCharm o Jupyter Notebook. 
-● Primeros pasos con Python: Ejecución de scripts simples 
+- Introducción a Python: Historia, usos y beneficios del lenguaje.
+- Instalación de Python: Instalación de Python en diferentes sistemas operativos. 
+- Configuración del entorno de desarrollo: Instalación y uso de IDEs como Visual Studio Code, PyCharm o Jupyter Notebook. 
+- Primeros pasos con Python: Ejecución de scripts simples 
 
 ### Grupo 2: Sintaxis Básica y Operaciones Fundamentales 
 
