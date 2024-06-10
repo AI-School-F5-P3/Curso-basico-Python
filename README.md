@@ -13,33 +13,33 @@ Para crear este material de forma eficiente, nos dividiremos en 6 equipos, cada 
 
 ### Grupo 2: Sintaxis Básica y Operaciones Fundamentales 
 
-● Sintaxis básica: Comentarios, identación, estructura de un programa Python. 
-● Tipos de datos básicos: Enteros, flotantes, cadenas de texto. 
-● Operaciones básicas: Aritmética, concatenación de cadenas, entrada y salida de datos. 
-● Variables y asignaciones: Declaración y uso de variables. 
+- Sintaxis básica: Comentarios, identación, estructura de un programa Python. 
+- Tipos de datos básicos: Enteros, flotantes, cadenas de texto. 
+- Operaciones básicas: Aritmética, concatenación de cadenas, entrada y salida de datos. 
+- Variables y asignaciones: Declaración y uso de variables. 
 
 ### Grupo 3: Estructuras de Control 
 
-● Condicionales: if, elif, else. 
-● Bucles: for, while. 
-● Listas y tuplas: Creación, acceso y manipulación de elementos. ● List comprehension: Introducción a la sintaxis y usos básicos.
+- Condicionales: if, elif, else. 
+- Bucles: for, while. 
+- Listas y tuplas: Creación, acceso y manipulación de elementos. ● List comprehension: Introducción a la sintaxis y usos básicos.
 
 ### Grupo 4: Funciones y Modularidad 
 
-● Funciones: Definición, llamadas a funciones, parámetros y retorno de valores. ● Alcance de variables: Variables locales y globales. 
-● Importación de módulos: Uso de bibliotecas estándar 
+- Funciones: Definición, llamadas a funciones, parámetros y retorno de valores. ● Alcance de variables: Variables locales y globales. 
+- Importación de módulos: Uso de bibliotecas estándar 
 
 ### Grupo 5: Manejo de Archivos y Estructuras de Datos Avanzadas 
 
-● Manejo de archivos: Apertura, lectura, escritura y cierre de archivos. ● Diccionarios: Creación, acceso y manipulación de pares clave-valor. ● Conjuntos: Operaciones básicas con sets. 
-● Manejo de excepciones: Try, except, else, finally. 
+- Manejo de archivos: Apertura, lectura, escritura y cierre de archivos. ● Diccionarios: Creación, acceso y manipulación de pares clave-valor. ● Conjuntos: Operaciones básicas con sets. 
+- Manejo de excepciones: Try, except, else, finally. 
 
 ### Grupo 6: Introducción a PIP y Bibliotecas Populares 
 
-● Uso del gestor de paquetes PIP 
-● Numpy: Introducción a la manipulación de arrays.(básico) 
-● Pandas: Introducción al manejo de datos tabulares. (básico) 
-● Matplotlib: Creación de gráficos simples.(básico) 
+- Uso del gestor de paquetes PIP 
+- Numpy: Introducción a la manipulación de arrays.(básico) 
+- Pandas: Introducción al manejo de datos tabulares. (básico) 
+- Matplotlib: Creación de gráficos simples.(básico) 
 
 Entregables de cada grupo: 
 Cada grupo realizará una presentación ante el resto de grupos y presentará los ejemplos de código:
